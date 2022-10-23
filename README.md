@@ -3,4 +3,4 @@
 
 * [Xophone project](https://github.com/Hamdi-FAKHFAKH/xophone.git)
 ## App2 : BMI App
-* [BMI project project](https://github.com/Hamdi-FAKHFAKH/BMI.git)
+* [BMI project](https://github.com/Hamdi-FAKHFAKH/BMI.git)
