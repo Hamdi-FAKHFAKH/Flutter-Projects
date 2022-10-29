@@ -6,6 +6,6 @@
 * [BMI project](https://github.com/Hamdi-FAKHFAKH/BMI.git)
 ## App 3 : Destiny App
 * [Destiny project](https://github.com/Hamdi-FAKHFAKH/Destiny.git)
-## App 3 : Bitcoin App
+## App 4 : Bitcoin App
 * [Bitcoin project](https://github.com/Hamdi-FAKHFAKH/Bitcoin.git)
 
